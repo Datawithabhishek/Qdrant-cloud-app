@@ -2,7 +2,7 @@
 
 
 
-> This repository accompanies the [App Boilerplate with GUI for Qdrant Managed Cloud Service](https://youtu.be/1X6QX6Z6Zq8) video tutorial on YouTube.
+
 
 This repository contains an app boilerplate with a graphical user interface (GUI) that connects to a remote database hosted in Qdrant's Managed Cloud Service. The purpose of this boilerplate is to provide a starting point for building applications that interact with a Qdrant vector database.
 
