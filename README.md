@@ -17,31 +17,10 @@ This repository contains an app boilerplate with a graphical user interface (GUI
 
 Before using this app boilerplate, make sure you have the following:
 
-- Python 3.x installed on your system.
+- Python installed on your system.
 - An active Qdrant Managed Cloud Service account.
 - Your Qdrant Managed Cloud Service credentials.
 
-## Installation
-
-To install and run the app boilerplate, follow these steps:
-
-1. Clone this repository to your local machine:
-
-```shell
-git clone https://github.com/alejandro-ao/qdrant-cloud-app.git
-```
-
-2. Change into the project directory:
-
-```shell
-cd qdrant-cloud-app
-```
-
-3. Install the required Python packages using pip:
-
-```shell
-pip install -r requirements.txt
-```
 
 ## Configuration
 
